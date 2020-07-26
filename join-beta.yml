@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://heroku_shmx5t8n:5j8gl7671m1mbg34tfb4ng2rtm@ds247027.mlab.com:47027/heroku_shmx5t8n
+
